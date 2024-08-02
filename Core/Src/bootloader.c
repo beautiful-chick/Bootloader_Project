@@ -2,7 +2,7 @@
  *      Copyright:  (C) 2024 Avnet. All Rights Reserved.
  *         Author:  Zhao Li <15927192685@163.com>
  *
- *    Description:  This is a bootloader program to load FreeRTOS app on STM32.
+ *    Description:  This is a bootloader program to load different app on STM32.
  *
  ********************************************************************************/
 #include <stdio.h>
